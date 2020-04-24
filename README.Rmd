@@ -1,0 +1,6 @@
+---
+title: "EMSE 6035: Marketing Analytics for Design Decisions"
+---
+
+```{r child = '_content.Rmd'}
+```

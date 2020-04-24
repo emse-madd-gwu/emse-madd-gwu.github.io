@@ -1,0 +1,14 @@
+name: "EMSE 6035: Marketing Analytics for Design Decisions"
+output_dir: "."
+exclude:
+- README
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+    include:
+      in_header:
+      - _includes/header.html
+      - _includes/style.html
+      after_body: _includes/footer.html
+    theme: flatly

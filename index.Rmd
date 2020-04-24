@@ -1,0 +1,16 @@
+---
+title: "EMSE 6035: Marketing Analytics for Design Decisions"
+output: html_document
+---
+
+<div class = "row">
+<div class = "col-md-3">
+<br>
+<img src="images/p4a_hex_sticker.png" width="200">
+</div>
+
+<div class = "col-md-7">
+```{r child = '_content.Rmd'}
+```
+</div>
+</div>
