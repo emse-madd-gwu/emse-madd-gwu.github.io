@@ -1,6 +1,38 @@
 ---
-title: "EMSE 6035: Marketing Analytics for Design Decisions"
+output:
+  github_document:
+    html_preview: false
 ---
 
-```{r child = '_content.Rmd'}
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse   = TRUE,
+  warning    = FALSE,
+  message    = FALSE,
+  comment    = "#>",
+  fig.retina = 3
+)
 ```
+
+## EMSE 6035: Marketing Analytics for Design Decisions <a href='https://github.com/emse-madd-gwu/'><img src='images/madd_hex_sticker.png' align="right" height="139"/></a>
+
+<!-- badges: start -->
+[![License: CC-BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
+<!-- badges: end -->
+
+### Description
+
+```{r child = '_description.Rmd'}
+```
+
+### Select Section
+
+Select to view the course site for a particular semester:
+
+- [Fall 2021](http://madd.seas.gwu.edu/2021-Fall/)
+
+### License
+
+The course material is licensed under the [Creative Commons ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
