@@ -13,6 +13,10 @@ navbar:
       menu:
         - text: "Fall 2021"
           href: http://madd.seas.gwu.edu/2021-Fall/
+    - text: "Project Showcase"
+      menu:
+        - text: "Fall 2021"
+          href: showcase-2021-fall.html
 
   right:
   - icon: fas fa-bars
