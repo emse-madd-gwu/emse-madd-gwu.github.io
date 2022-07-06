@@ -1,5 +1,5 @@
 name: "Marketing Analytics for Design Decisions"
-output_dir: "."
+output_dir: _site
 exclude:
 - README
 new_session: true
@@ -13,6 +13,8 @@ navbar:
       menu:
         - text: "Fall 2021"
           href: http://madd.seas.gwu.edu/2021-Fall/
+        - text: "Fall 2022"
+          href: http://madd.seas.gwu.edu/2022-Fall/
     - text: "Project Showcase"
       menu:
         - text: "Fall 2021"

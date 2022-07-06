@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 6035: Marketing Analytics for Design Decisions <a href='https://github.com/emse-madd-gwu/'><img src='images/madd_hex_sticker.png' align="right" height="139"/></a>
+## EMSE 6035: Marketing Analytics for Design Decisions <a href='https://github.com/emse-madd-gwu/'><img src='images/logo.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
@@ -25,6 +25,7 @@ optimization, market simulation, and professional communication skills.
 Select to view the course site for a particular semester:
 
 -   [Fall 2021](http://madd.seas.gwu.edu/2021-Fall/)
+-   [Fall 2022](http://madd.seas.gwu.edu/2022-Fall/)
 
 ### Student Project Showcase
 

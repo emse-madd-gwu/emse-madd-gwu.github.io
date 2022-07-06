@@ -18,7 +18,7 @@ meta() %>%
   meta_social(
     title = "madd.seas.gwu.edu",
     url = "https://madd.seas.gwu.edu/",
-    image = "https://madd.seas.gwu.edu/images/madd_hex_sticker.png",
+    image = "https://madd.seas.gwu.edu/images/logo.png",
     image_alt = "Hex sticker for class logo",
     og_type = "website",
     og_author = c("John Paul Helveston"),
@@ -30,7 +30,7 @@ meta() %>%
 <div class = "row">
 <div class = "col-md-3">
 <br>
-<img src="images/madd_hex_sticker.png" width="200">
+<img src="images/logo.png" width="200">
 </div>
 
 <div class = "col-md-7">
