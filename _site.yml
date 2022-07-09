@@ -1,5 +1,5 @@
 name: "Marketing Analytics for Design Decisions"
-output_dir: _site
+output_dir: docs
 exclude:
 - README
 new_session: true
