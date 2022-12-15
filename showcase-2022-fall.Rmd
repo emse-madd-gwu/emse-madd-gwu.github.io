@@ -1,0 +1,66 @@
+---
+title: "Fall 2022 Project Showcase"
+output:
+  html_document:
+    number_sections: false
+    toc: false
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    'Showcase for Fall 2022 semester of "EMSE 6035: Marketing Analytics for Design Decisions" at GWU'
+  ) %>%
+  meta_name("github-repo" = "emse-madd-gwu/2022-Fall") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "madd.seas.gwu.edu",
+    url = "https://madd.seas.gwu.edu/2022-Fall",
+    image = "https://madd.seas.gwu.edu/images/madd_hex_sticker.png",
+    image_alt = "Hex sticker for class logo",
+    og_type = "website",
+    og_author = c("John Paul Helveston"),
+    twitter_card_type = "summary",
+    twitter_creator = "@JohnHelveston"
+  )
+```
+
+<br>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2022-Fall/av-ride-hailing.png">
+</div><div class = "col-md-7">
+## [Automated Vehicles: Are people ready for driverless rideshares?](showcase/2022-Fall/av-ride-hailing.html){target="_blank"}
+by Chris Krueger, Sanskriti Shivhare, Vikram Gill, and Odelele Adeyeye<br>
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2022-Fall/leaf-blowers.png">
+</div><div class = "col-md-7">
+## [Gas vs Electric Leaf Blowers](showcase/2022-Fall/leaf-blowers.html){target="_blank"}
+by Raffa Nimir,Piryanka Desai and Sameer Bhosle<br>
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2022-Fall/remote-work.png">
+</div><div class = "col-md-7">
+## [The Future of Work: What would it take to bring people back into the office?](showcase/2022-Fall/remote-work.html){target="_blank"}
+by Michael Salceda, Haokai Du, Sravya Jahagirdhar, and Malyadri Reddy Mule<br>
+[<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=VtFG4WQTl1U){target="_blank"}<br>
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2022-Fall/student-housing.png">
+</div><div class = "col-md-7">
+## [Off-Campus Student Housing](showcase/2022-Fall/student-housing.html){target="_blank"}
+by Maximillian Kostyashkin, Alejandro Medina Mora, and Bassant Sabry<br>
+</div></div>
+
+<div class = "row"><div class = "col-md-5">
+<img src="showcase/2022-Fall/world-cup.png">
+</div><div class = "col-md-7">
+## [World Cup Packages](showcase/2022-Fall/world-cup.html){target="_blank"}
+by Kyle Arbide, Ava Gholipour, Prathyaj Mantha, Vibhav Lekhi<br>
+</div></div>

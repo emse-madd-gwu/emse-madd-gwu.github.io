@@ -19,6 +19,8 @@ navbar:
       menu:
         - text: "Fall 2021"
           href: showcase-2021-fall.html
+        - text: "Fall 2022"
+          href: showcase-2022-fall.html
 
   right:
   - icon: fas fa-bars

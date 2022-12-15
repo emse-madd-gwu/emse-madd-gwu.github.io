@@ -24,15 +24,15 @@ optimization, market simulation, and professional communication skills.
 
 Select to view the course site for a particular semester:
 
--   [Fall 2021](http://madd.seas.gwu.edu/2021-Fall/)
--   [Fall 2022](http://madd.seas.gwu.edu/2022-Fall/)
+- [Fall 2021](http://madd.seas.gwu.edu/2021-Fall/)
+- [Fall 2022](http://madd.seas.gwu.edu/2022-Fall/)
 
 ### Student Project Showcase
 
 Select to view the showcase of student projects from a previous
 semester:
 
--   [Fall 2021](http://eda.seas.gwu.edu/showcase-2021-fall.html)
+- [Fall 2021](http://eda.seas.gwu.edu/showcase-2021-fall.html)
 
 ### License
 
