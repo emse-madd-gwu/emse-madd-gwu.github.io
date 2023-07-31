@@ -15,4 +15,5 @@ Imports:
     dplyr,
     glue,
     here,
-    readr
+    readr,
+    rmarkdown
