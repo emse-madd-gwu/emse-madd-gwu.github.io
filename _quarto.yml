@@ -64,7 +64,7 @@ website:
 format:
   html:
     theme: cyborg
-    css: styles.css
+
     anchor-sections: true
     smooth-scroll: true
     link-external-newwindow: true
