@@ -29,7 +29,7 @@ website:
     title: ""
     left:
       - text: ""
-        icon: fas fa-home
+        icon: house-door-fill
         href: index.html
       - text: "Select Section"
         menu:
