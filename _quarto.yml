@@ -36,6 +36,8 @@ website:
           href: http://madd.seas.gwu.edu/2021-Fall/
         - text: "Fall 2022"
           href: http://madd.seas.gwu.edu/2022-Fall/
+        - text: "Fall 2023"
+          href: http://madd.seas.gwu.edu/2023-Fall/
       - text: "Project Showcase"
         menu:
         - text: "Fall 2021"
@@ -46,25 +48,25 @@ website:
     - icon: fas fa-bars
       menu:
       - text: About
-        icon: fas fa-info-circle
+        icon: question-circle-fill
         href: about.qmd
       - text: License
-        icon: fas fa-gavel
+        icon: award-fill
         href: LICENSE.qmd
       - text: Contact
-        icon: fas fa-envelope
+        icon: envelope-fill
         href: mailto:jph@gwu.edu
       - text: Source files
-        icon: fab fa-github
+        icon: github
         href: https://github.com/emse-madd-gwu/
   page-footer:
     center:
-      - text: '<a href="LICENSE.html">LICENSE: CC-BY-SA <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a>'
+      - text: '<a href="https://madd.seas.gwu.edu/LICENSE.html">LICENSE: CC-BY-SA <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a>'
 
 format:
   html:
     theme: cyborg
-
+    css: styles.css
     anchor-sections: true
     smooth-scroll: true
     link-external-newwindow: true

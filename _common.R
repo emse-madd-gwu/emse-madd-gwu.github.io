@@ -1,4 +1,5 @@
 library(tidyverse)
+library(glue)
 
 knitr::opts_chunk$set(
     message = FALSE,
@@ -17,7 +18,7 @@ get_showcase_df <- function(semester) {
     df <- read_csv(here::here('showcase', glue('{semester}.csv'))) %>% 
         mutate(
             img = glue(
-                '<img src="/showcase/{semester}/thumbnails/{stub}.{img}" width = 100%>'
+                '<img src="/showcase/{semester}/{stub}.{img}" width = 100%>'
             ),
             title = glue(
                 '<h3><a href="/showcase/{semester}/{stub}.html"
