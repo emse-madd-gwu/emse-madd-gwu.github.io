@@ -1,0 +1,22 @@
+---
+title: "Fall 2023 Project Showcase"
+execute:
+  echo: false
+  warning: false
+  message: false
+toc: false
+---
+
+<br>
+
+::: {.grid}
+
+```{r}
+#| results: asis
+
+source(here::here('_common.R'))
+df <- get_showcase_df('2023-Fall')
+build_showcase(df)
+```
+
+:::
