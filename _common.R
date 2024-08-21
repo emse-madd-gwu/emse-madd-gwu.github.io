@@ -2,17 +2,6 @@ library(dplyr)
 library(readr)
 library(glue)
 
-knitr::opts_chunk$set(
-    message = FALSE,
-    warning = FALSE,
-    comment    = "#>",
-    fig.retina = 3,
-    fig.width  = 6,
-    fig.height = 4,
-    fig.show = "hold",
-    fig.path   = "figs/"
-)
-
 # Functions for building showcase
 
 get_showcase_df <- function(semester) {
