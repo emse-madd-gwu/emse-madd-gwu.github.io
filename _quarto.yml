@@ -28,9 +28,6 @@ website:
   navbar:
     title: ""
     left:
-      - text: ""
-        icon: house-door-fill
-        href: index.html
       - text: "Select Section"
         menu:
         - text: "Fall 2021"
@@ -40,13 +37,7 @@ website:
         - text: "Fall 2023"
           href: http://madd.seas.gwu.edu/2023-Fall/
       - text: "Project Showcase"
-        menu:
-        - text: "Fall 2021"
-          href: showcase/2021-fall.html
-        - text: "Fall 2022"
-          href: showcase/2022-fall.html
-        - text: "Fall 2023"
-          href: showcase/2023-fall.html
+        href: showcase.qmd
     right:
     - icon: list
       menu:
@@ -64,7 +55,7 @@ website:
         href: https://github.com/emse-madd-gwu/
   page-footer:
     center:
-      - text: '<a href="https://madd.seas.gwu.edu/LICENSE.html">LICENSE: CC-BY-SA <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a>'
+      - text: "<a href='https://madd.seas.gwu.edu/LICENSE.html'>LICENSE: CC-BY-SA {{< fa creative-commons-sa >}} <i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa'></i></a>"
 
 format:
   html:
@@ -74,4 +65,14 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     link-external-icon: false
-    include-in-header: "_includes/header.html"
+
+execute:
+  echo: false
+  warning: false
+  message: false
+knitr:
+  opts_chunk:
+    comment: "#>"
+fig-retina: 3
+toc: true
+toc-location: right

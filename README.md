@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## EMSE 6035: Marketing Analytics for Design Decisions <a href='https://github.com/emse-madd-gwu/'><img src='images/logo.png' align="right" height="139"/></a>
+## EMSE 6035: Marketing Analytics for Design Decisions <a href='https://madd.seas.gwu.edu/'><img src='images/logo.png' align="right" height="139"/></a>
 
 <!-- badges: start -->
 
@@ -19,20 +19,6 @@ to inform design decisions in an uncertain, competitive market; topics
 include consumer choice modeling, programming in the [R programming
 language](https://www.r-project.org/), survey design, conjoint analysis,
 optimization, market simulation, and professional communication skills.
-
-### Select Section
-
-Select to view the course site for a particular semester:
-
-- [Fall 2021](http://madd.seas.gwu.edu/2021-Fall/)
-- [Fall 2022](http://madd.seas.gwu.edu/2022-Fall/)
-
-### Student Project Showcase
-
-Select to view the showcase of student projects from a previous
-semester:
-
-- [Fall 2021](http://eda.seas.gwu.edu/showcase-2021-fall.html)
 
 ### License
 
