@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://madd.seas.gwu.edu/showcase/2023-fall.html</loc>
-    <lastmod>2023-12-15T20:18:21.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://madd.seas.gwu.edu/showcase/2021-fall.html</loc>
-    <lastmod>2023-12-15T20:18:10.648Z</lastmod>
+    <loc>https://madd.seas.gwu.edu/showcase.html</loc>
+    <lastmod>2024-08-21T12:49:28.639Z</lastmod>
   </url>
   <url>
     <loc>https://madd.seas.gwu.edu/about.html</loc>
-    <lastmod>2023-12-15T20:18:07.248Z</lastmod>
+    <lastmod>2024-08-21T12:49:28.605Z</lastmod>
   </url>
   <url>
     <loc>https://madd.seas.gwu.edu/LICENSE.html</loc>
-    <lastmod>2023-12-15T20:18:06.436Z</lastmod>
+    <lastmod>2024-08-21T12:49:28.588Z</lastmod>
   </url>
   <url>
     <loc>https://madd.seas.gwu.edu/index.html</loc>
-    <lastmod>2023-12-15T20:18:08.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://madd.seas.gwu.edu/showcase/2022-fall.html</loc>
-    <lastmod>2023-12-15T20:18:12.428Z</lastmod>
+    <lastmod>2024-08-21T12:49:28.632Z</lastmod>
   </url>
 </urlset>

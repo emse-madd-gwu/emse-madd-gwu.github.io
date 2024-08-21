@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "showcase/2023-fall.html",
-    "href": "showcase/2023-fall.html",
-    "title": "Fall 2023 Project Showcase",
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Fall 2021",
     "section": "",
-    "text": "Solar Charging Phone Case\n\nby Anh Nguyen, Elizabeth Pacious, Niveadita Razdan, and Avneet Singh\n\n\n\n\n\n\nCooktop Preference Analysis\n\nby Hanna Song, Paul Derisemu, Tejas Phirke, and Zain Hoda\n\n\n\n\n\n\nSmart Charging for PEVs\n\nby Pingfan Hu, Bharath Ravindra, Sampada Dhakal, and Vedanth Surendra Hegde\n\n\n\n\n\n\nComposteRs\n\nby Eliese Ottinger, Raghav Bhan, Ashhwath Chandramohan, and Nandhini Devaraj\n\n\n\n\n\n\nFutStat: The Soccer Training App\n\nby Ayush Kala, Sumedh Joshi, Mansoor Ali, and Oscar Southwell"
-  },
-  {
-    "objectID": "showcase/2021-fall.html",
-    "href": "showcase/2021-fall.html",
-    "title": "Fall 2021 Project Showcase",
-    "section": "",
-    "text": "Omao Sustainable Plastic Cups\n\nby Arianna Haven, Isha Negi, Zachary Stecher, & Rishi Jarmarwala\n\n\n\n\n\n\nOmao Disposable Cutlery\n\nby Chi-Yun Chen, Laura Kadue, Weijie Pan, & Vyshaaly Sivakumaar\n\n\n\n\n\n\nPreening Hand Sanitizer\n\nby Tiffany Nguyen & Nicole Xie\n\n\n\n\n\n\nAMC Seltzer: Revolutionizing the Hard Seltzer Surge\n\nby Ariana Fazal, Myrto Kampouris, & Christian Lane\n\n\n\n\n\n\nConsumer Preference Analysis for Used EVs\n\nby Huajie Zhu, Mohammad Khan, Ruchi Saraf, Joey Shonubi, & Lujin Zhao\n\n\n\n\n\n\nMoving the Needle: A comparison of different policy options to increase COVID-19 vaccination rates\n\nby Neel Bhagwat & Jenny Kim"
+    "text": "Fall 2021\n\n\n\n\n\n\nOmao Sustainable Plastic Cups\n\nby Arianna Haven, Isha Negi, Zachary Stecher, & Rishi Jarmarwala\n\n\n\n\n\n\nOmao Disposable Cutlery\n\nby Chi-Yun Chen, Laura Kadue, Weijie Pan, & Vyshaaly Sivakumaar\n\n\n\n\n\n\nPreening Hand Sanitizer\n\nby Tiffany Nguyen & Nicole Xie\n\n\n\n\n\n\nAMC Seltzer: Revolutionizing the Hard Seltzer Surge\n\nby Ariana Fazal, Myrto Kampouris, & Christian Lane\n\n\n\n\n\n\nConsumer Preference Analysis for Used EVs\n\nby Huajie Zhu, Mohammad Khan, Ruchi Saraf, Joey Shonubi, & Lujin Zhao\n\n\n\n\n\n\nMoving the Needle: A comparison of different policy options to increase COVID-19 vaccination rates\n\nby Neel Bhagwat & Jenny Kim\n\n\n\n\nFall 2022\n\n\n\n\n\n\nAutomated Vehicles: Are people ready for driverless rideshares?\n\nby Chris Krueger, Sanskriti Shivhare, Vikram Gill, and Odelele Adeyeye\n\n\n\n\n\n\nGas vs Electric Leaf Blowers\n\nby Raffa Nimir,Piryanka Desai and Sameer Bhosle\n\n\n\n\n\n\nThe Future of Work: What would it take to bring people back into the office?\n\nby Michael Salceda, Haokai Du, Sravya Jahagirdhar, and Malyadri Reddy Mule\n\n\n\n\n\n\nOff-Campus Student Housing\n\nby Maximillian Kostyashkin, Alejandro Medina Mora, and Bassant Sabry\n\n\n\n\n\n\nWorld Cup Packages\n\nby Kyle Arbide, Ava Gholipour, Prathyaj Mantha, Vibhav Lekhi\n\n\n\n\nFall 2023\n\n\n\n\n\n\nSolar Charging Phone Case\n\nby Anh Nguyen, Elizabeth Pacious, Niveadita Razdan, and Avneet Singh\n\n\n\n\n\n\nCooktop Preference Analysis\n\nby Hanna Song, Paul Derisemu, Tejas Phirke, and Zain Hoda\n\n\n\n\n\n\nSmart Charging for PEVs\n\nby Pingfan Hu, Bharath Ravindra, Sampada Dhakal, and Vedanth Surendra Hegde\n\n\n\n\n\n\nComposteRs\n\nby Eliese Ottinger, Raghav Bhan, Ashhwath Chandramohan, and Nandhini Devaraj\n\n\n\n\n\n\nFutStat: The Soccer Training App\n\nby Ayush Kala, Sumedh Joshi, Mansoor Ali, and Oscar Southwell"
   },
   {
     "objectID": "about.html",
@@ -33,12 +26,5 @@
     "title": "EMSE 6035: Marketing Analytics for Design Decisions",
     "section": "",
     "text": "This is the course website for the EMSE graduate course “Marketing Analytics for Design Decisions” at the George Washington University. The course teaches analytical tools to inform design decisions in an uncertain, competitive market; topics include consumer choice modeling, programming in the R programming language, survey design, conjoint analysis, optimization, market simulation, and professional communication skills.\nChoose from the menu to view the course site for a particular semester or to view the showcase of prior student projects."
-  },
-  {
-    "objectID": "showcase/2022-fall.html",
-    "href": "showcase/2022-fall.html",
-    "title": "Fall 2022 Project Showcase",
-    "section": "",
-    "text": "Automated Vehicles: Are people ready for driverless rideshares?\n\nby Chris Krueger, Sanskriti Shivhare, Vikram Gill, and Odelele Adeyeye\n\n\n\n\n\n\nGas vs Electric Leaf Blowers\n\nby Raffa Nimir,Piryanka Desai and Sameer Bhosle\n\n\n\n\n\n\nThe Future of Work: What would it take to bring people back into the office?\n\nby Michael Salceda, Haokai Du, Sravya Jahagirdhar, and Malyadri Reddy Mule\n\n\n\n\n\n\nOff-Campus Student Housing\n\nby Maximillian Kostyashkin, Alejandro Medina Mora, and Bassant Sabry\n\n\n\n\n\n\nWorld Cup Packages\n\nby Kyle Arbide, Ava Gholipour, Prathyaj Mantha, Vibhav Lekhi"
   }
 ]
