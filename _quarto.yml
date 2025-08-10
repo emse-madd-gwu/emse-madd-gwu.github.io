@@ -38,6 +38,8 @@ website:
           href: http://madd.seas.gwu.edu/2023-Fall/
         - text: "Fall 2024"
           href: http://madd.seas.gwu.edu/2024-Fall/
+        - text: "Fall 2025"
+          href: http://madd.seas.gwu.edu/2025-Fall/
       - text: "Project Showcase"
         href: showcase.qmd
     right:
